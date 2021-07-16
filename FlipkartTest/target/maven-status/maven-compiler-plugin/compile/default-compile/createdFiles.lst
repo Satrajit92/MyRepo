@@ -1,0 +1,6 @@
+pageObjects\FinalProduct.class
+pageObjects\SearchResult.class
+resources\BaseClass.class
+pageObjects\CheckOut.class
+FrameworkforTest\FlipkartTest\App.class
+pageObjects\HomePage.class
